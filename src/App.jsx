@@ -8,10 +8,10 @@ import todoImg from "./assets/projects/todo.jpg";
 import qrImg from "./assets/projects/qr.jpg";
 import recImg from "./assets/projects/recommendation.jpg";
 import amazonImg from "./assets/projects/amazon.jpg";
-import isroCert from "./assets/certificates/isro.pdf";
-import codtechCert from "./assets/certificates/codtech.pdf";
-import pythonCert from "./assets/certificates/python.pdf";
-import woscCert from "./assets/certificates/wosc.pdf";
+import isroCert from "/Users/chitanyanamdeo/my-portfolio/public/certificates/isro.pdf";
+import codtechCert from "/Users/chitanyanamdeo/my-portfolio/public/certificates/codtech.pdf";
+import pythonCert from "/Users/chitanyanamdeo/my-portfolio/public/certificates/python.pdf";
+import woscCert from "/Users/chitanyanamdeo/my-portfolio/public/certificates/wosc.pdf";
 import woscImg from "./assets/wosc.jpg";
 export default function App() {
 
